@@ -1,0 +1,8 @@
+.vscode
+build
+tags
+.editorconfig
+CMakeLists.txt
+CODEOWNERS
+LICENSE
+cmakepatch.txt
